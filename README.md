@@ -1,4 +1,4 @@
-# Miniature Arcade Cabinet Project
+# Java Battleship Game
 
 A Battleship Game with a server/client connection that allows the user to play an intelligent AI or join matchmaking and play against other players on the server.
 
