@@ -17,7 +17,9 @@ This project was created as a final for CS 342 at the University of Illinois Chi
 
 ## Document that goes into specific details of the project
 
-For a more comprehensive overview of this project, check out the Google Slides presentation [here](https://docs.google.com/presentation/d/1n0UUH145LRWXDVVeXJsGuqw9OH7mB6Isg5WcG_EqxO4/edit#slide=id.g2cbc97b9916_0_86).
+For a more comprehensive overview of this project, check out this PDF [here]
+[CS_342_FINAL_REPORT.pdf](https://github.com/user-attachments/files/17141634/CS_342_FINAL_REPORT.pdf)
+
 
 ## Partner
 
