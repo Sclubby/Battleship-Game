@@ -4,6 +4,10 @@ A Battleship Game with a server/client connection that allows the user to play a
 
 This project was created as a final for CS 342 at the University of Illinois Chicago.
 
+<h1> Video Demo: </h1>
+
+[Video](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7244915079152857088)
+
 ## Project Images
 
 <div align="center">
